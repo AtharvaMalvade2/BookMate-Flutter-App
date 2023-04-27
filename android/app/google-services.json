@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362619374207",
+    "project_id": "reading-book-fcb49",
+    "storage_bucket": "reading-book-fcb49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362619374207:android:6b7af7298e2cc0a0b2cd4a",
+        "android_client_info": {
+          "package_name": "com.rezuanulfahim.hasper_ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362619374207-t7du09belvrm1sedc3ljk9b30qravi18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfdCHImmDzIIstErkburfN4B726sw1xjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362619374207-t7du09belvrm1sedc3ljk9b30qravi18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
